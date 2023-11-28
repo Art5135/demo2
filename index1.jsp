@@ -12,7 +12,7 @@
 
 <form class="trip-form">
     <h1>Trip Planner </h1>
-  <p>Charging Speed</p>
+  <p>Charging Speed </p>
   <div class="checkbox-group">
     <label>
         <input type="checkbox" name="charging_speed" value="regular">
