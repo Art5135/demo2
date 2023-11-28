@@ -11,7 +11,7 @@
 <body>
 
 <form class="trip-form">
-    <h1>Trip Planner</h1>
+    <h1>Trip Planner </h1>
   <p>Charging Speed</p>
   <div class="checkbox-group">
     <label>
