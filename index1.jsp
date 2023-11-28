@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Trip Planner</title>
+<title>Trip Planner  </title>
 <!--<link rel="stylesheet" href="roadtripStyle.css">-->
 <link rel="stylesheet" type="text/css" href="/demo2/roadtripStyle.css">
 
