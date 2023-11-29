@@ -110,7 +110,7 @@ function updateKmValues() {
 function loadGoogleMaps() {
   var script = document.createElement("script");
   script.type = "text/javascript";
-  script.src = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCEx5vImm5w1SKAYFwQrRpikPKx3_xU28Q&callback=initMap";
+  script.src = "https://maps.googleapis.com/maps/api/js?key=xxx&callback=initMap";
   document.body.appendChild(script);
 }
 
