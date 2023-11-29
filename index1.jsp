@@ -94,7 +94,7 @@
 
 <!--<script src="theScript.js"></script>-->
 <script src="/demo2/theScript.js"></script>
-<!---<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCEx5vImm5w1SKAYFwQrRpikPKx3_xU28Q&callback=initMap" async defer></script>-->
+<!---<script src="https://maps.googleapis.com/maps/api/js?key=xxx&callback=initMap" async defer></script>-->
 
 </body>
 </html>
